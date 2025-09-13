@@ -2,9 +2,7 @@
 
 
 
-- 🌱 Estudando Python
-- 👯 Estudando Banco de Dados
-- 🤔 C# e .NET
+
 
 ##
 
