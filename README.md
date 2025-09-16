@@ -27,3 +27,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabrants&layout=compact&theme=dracula)
 
 ##
+## 🌎 Onde me encontrar
+- [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/kau%C3%AA-abrantes-b27036210/)  
+- 📧 Email: kaueefonseca@gmail.com  
