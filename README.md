@@ -28,5 +28,5 @@
 
 ##
 ## 🌎 Onde me encontrar
-- [LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/kau%C3%AA-abrantes-b27036210/)  
+- [LinkedIn](https://www.linkedin.com/in/kau%C3%AA-abrantes-b27036210/)  
 - 📧 Email: kaueefonseca@gmail.com  
