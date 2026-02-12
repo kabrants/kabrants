@@ -1,7 +1,7 @@
 ## Opa! Sou o Kauê 👽
 
 🚀 Em transição de carreira para a área de tecnologia.  
-🎓 Atualmente estudando **Python**, **C# .NET** e **Flutter**.  
+🎓 Atualmente estudando **C# .NET**.  
 💡 Apaixonado por resolver problemas e aprender coisas novas. 
 
 ## 📚 O que estou aprendendo atualmente
